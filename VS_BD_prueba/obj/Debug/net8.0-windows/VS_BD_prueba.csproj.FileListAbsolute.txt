@@ -1,0 +1,17 @@
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\bin\Debug\net8.0-windows\VS_BD_prueba.exe
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\bin\Debug\net8.0-windows\VS_BD_prueba.deps.json
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\bin\Debug\net8.0-windows\VS_BD_prueba.runtimeconfig.json
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\bin\Debug\net8.0-windows\VS_BD_prueba.dll
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\bin\Debug\net8.0-windows\VS_BD_prueba.pdb
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.Form1.resources
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.csproj.GenerateResource.cache
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.AssemblyInfoInputs.cache
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.AssemblyInfo.cs
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.csproj.CoreCompileInputs.cache
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.sourcelink.json
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.dll
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\refint\VS_BD_prueba.dll
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.pdb
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\VS_BD_prueba.genruntimeconfig.cache
+C:\Users\juanlara\Documents\GitHub\Work_Ely\VS_BD_prueba\obj\Debug\net8.0-windows\ref\VS_BD_prueba.dll
